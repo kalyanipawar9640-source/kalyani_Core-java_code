@@ -1,10 +1,8 @@
-
 class A{
 	int x;
 	void m() {
 		System.out.println("Hi A");
 	}
-
 	public static void main(String[] args) {
 		A a=new A();
 		a.x=10;
