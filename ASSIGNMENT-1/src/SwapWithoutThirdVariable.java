@@ -1,4 +1,3 @@
-
 //WAP to swap two numbers without using a third variable (+ and -)
 
 public class SwapWithoutThirdVariable {
