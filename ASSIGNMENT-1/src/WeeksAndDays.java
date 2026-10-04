@@ -1,6 +1,5 @@
 //WAP to print number of weeks and remaining days from total days
 
-
 public class WeeksAndDays {
     public static void main(String[] args) {
         int totalDays = 25;
