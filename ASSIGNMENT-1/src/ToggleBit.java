@@ -1,4 +1,3 @@
-
 //15.Toggle the 3rd Bit of a Number
 
 public class ToggleBit {
