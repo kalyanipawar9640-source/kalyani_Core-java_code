@@ -1,6 +1,4 @@
-
 //13.Rotate Bits Left and Right
-
 
 public class BitRotation {
     public static void main(String[] args) {
