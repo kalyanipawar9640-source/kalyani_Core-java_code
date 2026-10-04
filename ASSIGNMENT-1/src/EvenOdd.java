@@ -1,4 +1,3 @@
-
 //Find Whether a Number is Even or Odd Using Conditional (Ternary) Operator
 
 public class EvenOdd {
