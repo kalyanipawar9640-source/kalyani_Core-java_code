@@ -1,4 +1,3 @@
-
 //1.WAP to calculate Area and Circumference of a Circle (Radius = 5 cm)
 
 public class Circle {
