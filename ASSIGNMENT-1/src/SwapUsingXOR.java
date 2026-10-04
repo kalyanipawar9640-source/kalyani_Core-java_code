@@ -1,6 +1,5 @@
 //12.Swap Two Numbers Without Using Temp Variable (Using XOR)
 
-
 public class SwapUsingXOR {
     public static void main(String[] args) {
         int a = 10, b = 20;
