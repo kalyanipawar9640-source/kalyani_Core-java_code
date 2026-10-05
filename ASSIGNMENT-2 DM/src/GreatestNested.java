@@ -1,4 +1,3 @@
-
 //3. WAP to find greatest of three numbers (using nested if)
 
 import java.util.Scanner;
