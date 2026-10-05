@@ -1,4 +1,3 @@
-
 //14.WAP using switch to calculate area (circle, square, rectangle, triangle)import java.util.Scanner;
 
 import java.util.Scanner;
