@@ -1,4 +1,3 @@
-
 //10. WAP to Check if a Character is an Alphabet and Then Further Check if It's a Vowel
 
 import java.util.Scanner;
