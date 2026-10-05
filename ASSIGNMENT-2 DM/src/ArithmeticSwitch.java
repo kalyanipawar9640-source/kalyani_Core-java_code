@@ -1,4 +1,3 @@
-
 //13. WAP Using Switch to Perform Arithmetic Operations
 
 import java.util.Scanner;
