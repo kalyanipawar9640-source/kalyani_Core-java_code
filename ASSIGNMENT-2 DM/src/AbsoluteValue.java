@@ -1,6 +1,4 @@
-
 //6. WAP to Find the Absolute Value of a Number
-
 
 import java.util.Scanner;
 
