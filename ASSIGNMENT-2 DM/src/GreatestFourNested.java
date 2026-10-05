@@ -1,6 +1,4 @@
-
 //4. WAP to find the greatest of four numbers.(using nested)
-
 
 import java.util.Scanner;
 
