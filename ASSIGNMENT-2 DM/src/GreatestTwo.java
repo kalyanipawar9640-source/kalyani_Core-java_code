@@ -1,6 +1,5 @@
 //1. WAP to find the greatest of two numbers
 
-
 import java.util.Scanner;
 
 public class GreatestTwo {
