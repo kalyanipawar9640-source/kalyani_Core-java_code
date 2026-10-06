@@ -1,6 +1,4 @@
-
 //7. WAP to Check Whether a Character is Vowel or Consonant
-
 
 import java.util.Scanner;
 
