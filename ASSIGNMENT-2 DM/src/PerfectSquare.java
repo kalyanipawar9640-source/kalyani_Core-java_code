@@ -1,4 +1,3 @@
-
 //WAP to Check Whether a Number is a Perfect Square
 
 import java.util.Scanner;
