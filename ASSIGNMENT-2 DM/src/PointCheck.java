@@ -1,4 +1,3 @@
-
 //15.WAP to Check Whether a Point Lies on X-Axis, Y-Axis, or Origin
 
 import java.util.Scanner;
