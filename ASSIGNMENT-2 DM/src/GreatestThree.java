@@ -1,4 +1,3 @@
-
 //2. WAP to find the greatest of three numbers
 
 import java.util.Scanner;
