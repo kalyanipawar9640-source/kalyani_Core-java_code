@@ -1,6 +1,5 @@
 //5. WAP to check whether a given year is a leap year
 
-
 import java.util.Scanner;
 
 public class LeapYear {
