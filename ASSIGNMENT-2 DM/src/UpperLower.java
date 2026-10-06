@@ -1,4 +1,3 @@
-
 //9. WAP to Check Whether a Character is Uppercase or Lowercase
 
 import java.util.Scanner;
