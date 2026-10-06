@@ -1,4 +1,3 @@
-
 //12. WAP to Check Leap Year Using ?:
 
 import java.util.Scanner;
